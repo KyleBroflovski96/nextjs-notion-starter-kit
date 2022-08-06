@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Kyle's Space',
-  domain: 'Kylespace',
+  name: 'Kyle Space',
+  domain: 'kylespace.vercel.app',
   author: 'Kyle',
 
   // open graph metadata (optional)
